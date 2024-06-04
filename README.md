@@ -1,9 +1,7 @@
 
 # Supply Chain Management
 
-# Supply Chain Dashboard Link
 
-https://app.powerbi.com/links/ne1TOBnD7W?ctid=0abc8a22-567e-4918-b31c-0bdf83a88a27&pbi_source=linkShare
 
 
 ## Problem Statement
