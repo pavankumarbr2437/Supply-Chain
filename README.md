@@ -1,5 +1,6 @@
 
 # Supply Chain Management
+Dashboard Link - https://app.powerbi.com/groups/me/reports/6fe76916-b983-42d6-93cd-eda87bec3a1e?ctid=0abc8a22-567e-4918-b31c-0bdf83a88a27&pbi_source=linkShare
 
 
 
